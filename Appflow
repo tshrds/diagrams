@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T09:37:38.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="auvCfWm0oloUuGtCaJaT" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T10:05:17.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="cHEqtaBIQDT5cW9q-qgn" version="20.1.1" type="github">
   <diagram id="lGmYOkLVnSO_TSUTUb_B" name="AppFlow">
     <mxGraphModel dx="1082" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="opvfbHIIAP2JG_zqJjEW-11" value="QA-TECHSTACK" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w8Os3N9O1FytimGpSSP8-2" value="Client" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="w8Os3N9O1FytimGpSSP8-2" value="CLIENT" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="760" y="250" width="260" height="410" as="geometry" />
         </mxCell>
         <mxCell id="opvfbHIIAP2JG_zqJjEW-8" value="ORCHESTRATOR" style="swimlane;" parent="w8Os3N9O1FytimGpSSP8-2" vertex="1">
