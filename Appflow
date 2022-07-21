@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T08:33:23.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="PAnltBZHy2Ye94qrVwjn" version="20.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-21T08:58:29.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="AtzQxmZgOsNzzpzHtUR2" version="20.1.1" type="github" pages="4">
   <diagram id="lGmYOkLVnSO_TSUTUb_B" name="Architecture">
     <mxGraphModel dx="1298" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -244,10 +244,10 @@
         <mxCell id="Gh2nd0xQ-99NyZfGvNBK-12" value="" style="group" vertex="1" connectable="0" parent="Gh2nd0xQ-99NyZfGvNBK-1">
           <mxGeometry x="39" y="555" width="217" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gh2nd0xQ-99NyZfGvNBK-13" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.radiobutton;strokeColor=#676767;fillColor=#FFFFFF;strokeWidth=2;aspect=fixed;sketch=0;fontSize=12;" vertex="1" parent="Gh2nd0xQ-99NyZfGvNBK-12">
+        <mxCell id="Gh2nd0xQ-99NyZfGvNBK-13" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.radiobutton;strokeColor=#000000;fillColor=#FFFFFF;strokeWidth=2;aspect=fixed;sketch=0;fontSize=12;" vertex="1" parent="Gh2nd0xQ-99NyZfGvNBK-12">
           <mxGeometry y="7" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="Gh2nd0xQ-99NyZfGvNBK-14" value="Cross Account Configured" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#5E5E5E;" vertex="1" parent="Gh2nd0xQ-99NyZfGvNBK-12">
+        <mxCell id="Gh2nd0xQ-99NyZfGvNBK-14" value="Cross Account Configured" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#000000;" vertex="1" parent="Gh2nd0xQ-99NyZfGvNBK-12">
           <mxGeometry x="24" width="193" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gh2nd0xQ-99NyZfGvNBK-15" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Secure connection details with password&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#5E5E5E;" vertex="1" parent="Gh2nd0xQ-99NyZfGvNBK-1">
@@ -316,10 +316,10 @@
         <mxCell id="T9c4LVs5DWdHsPal6rhL-9" value="" style="group" vertex="1" connectable="0" parent="T9c4LVs5DWdHsPal6rhL-1">
           <mxGeometry x="39" y="555" width="217" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T9c4LVs5DWdHsPal6rhL-10" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.radiobutton;strokeColor=#676767;fillColor=#676767;strokeWidth=2;aspect=fixed;sketch=0;fontSize=12;" vertex="1" parent="T9c4LVs5DWdHsPal6rhL-9">
+        <mxCell id="T9c4LVs5DWdHsPal6rhL-10" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.radiobutton;strokeColor=#000000;fillColor=#000000;strokeWidth=2;aspect=fixed;sketch=0;fontSize=12;" vertex="1" parent="T9c4LVs5DWdHsPal6rhL-9">
           <mxGeometry y="7" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="T9c4LVs5DWdHsPal6rhL-11" value="Cross Account Configured" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#5E5E5E;" vertex="1" parent="T9c4LVs5DWdHsPal6rhL-9">
+        <mxCell id="T9c4LVs5DWdHsPal6rhL-11" value="Cross Account Configured" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#000000;" vertex="1" parent="T9c4LVs5DWdHsPal6rhL-9">
           <mxGeometry x="24" width="193" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T9c4LVs5DWdHsPal6rhL-12" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Secure connection details with password&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#5E5E5E;" vertex="1" parent="T9c4LVs5DWdHsPal6rhL-1">
